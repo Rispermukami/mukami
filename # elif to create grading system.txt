@@ -1,0 +1,3 @@
+# elif to create grading system 
+grade = int(input("write student score :")
+if grade >=80 and grade <=100
